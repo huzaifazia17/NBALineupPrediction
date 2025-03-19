@@ -77,3 +77,6 @@ python nba_prediction.py
 
 3. **Best Performing Season**  
    The best performing season was 2008 with an accuracy of 84%
+
+4. **Program Effeciency**  
+   Note that depening on your local machine, this program may take around 15-30 minutes to run. Howeever the objctive of this project was to get as high as an effeciency without worrying about processing times. 
